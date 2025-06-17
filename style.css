@@ -101,6 +101,7 @@ img {
 
     section {
         width:100%;
+        padding-top: 50px;
     }
     h1 {
         max-width: 480px;
@@ -110,7 +111,6 @@ img {
     }
     button {
         padding:11px 27px 11px 27px;
-        border-radius: 20px;
         font-size: 12px;
     
 
