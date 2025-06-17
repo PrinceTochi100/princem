@@ -82,3 +82,12 @@ button {
     margin-top: 10px;
 
 }
+
+/* mobile style go here*/
+@media (max-width: 480px) {
+    section {
+        width:100%;
+    }
+
+
+}
