@@ -6,7 +6,7 @@ html, body {
 body {
     width:100vw;
     height: 100%;
-    background-image: url("blackg.jpg");
+    background-image: url("blackgg.jpg");
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
@@ -46,7 +46,7 @@ h1 {
     padding-top: 0px;
     margin-top: 15px;
     text-align: center;
-    font-size: 50px;
+    font-size: 60px;
     font-weight: 800;
     line-height: 50px;
     color: #ffffff;
@@ -89,12 +89,13 @@ button {
     body {
         height:100vh;
     }
+
     section {
         width:100%;
     }
     h1 {
         max-width: 480px;
-        font-size: 40px;
+        font-size: 45px;
         margin-left: 15px;
         margin-right: 15px;
     }
