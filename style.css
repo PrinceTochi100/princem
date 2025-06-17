@@ -108,6 +108,13 @@ img {
         margin-left: 15px;
         margin-right: 15px;
     }
+    button {
+        padding:11px 27px 11px 27px;
+        border-radius: 20px;
+        font-size: 12px;
+    
+
+    }
 
 
 }
