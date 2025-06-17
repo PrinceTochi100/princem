@@ -13,6 +13,8 @@ body {
 }
 
 section {
+    display: flex;
+    flex-direction: column;
     align-items: center;
     width: 1000px;
     margin: 0 auto;
@@ -31,7 +33,7 @@ section {
 }
 
 #outrodivp1 {
-    background-color: rgba(57, 55, 57, 0.137);
+    background-color: rgba(0, 0, 0, 0.662);
     color: #f0f5f5;
     padding: 4px 13px 4px 13px;
     border-radius: 15px;
@@ -80,6 +82,13 @@ button {
     color:#fff;
     background-color: #4742cd;
     margin-top: 10px;
+
+}
+
+img {
+    width: 80%;
+    margin: 50px auto;
+    border-radius: 25px;
 
 }
 
