@@ -85,6 +85,10 @@ button {
 
 /* mobile style go here*/
 @media (max-width: 480px) {
+
+    body {
+        height:100vh;
+    }
     section {
         width:100%;
     }
